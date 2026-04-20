@@ -1,2 +1,1 @@
-# zvio-15-py-licenselib
-zVaultIO Python License Library for FBSD 15.0
+Forked from https://github.com/truenas/licenselib
